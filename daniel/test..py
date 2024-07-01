@@ -1,3 +1,2 @@
-fsbfbfbthyjytgrji
-fueaniounub
-',bnbgkm'
+
+print('hello world')
